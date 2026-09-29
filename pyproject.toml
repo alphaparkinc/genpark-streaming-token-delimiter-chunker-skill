@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-streaming-token-delimiter-chunker-skill"
+version = "1.0.0"
+description = "Smooth streaming tokenizer grouping raw token deltas into natural word and sentence boundaries for UI rendering"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
