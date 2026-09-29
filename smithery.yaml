@@ -1,0 +1,6 @@
+name: genpark-streaming-token-delimiter-chunker-skill
+version: 1.0.0
+description: Smooth streaming tokenizer grouping raw token deltas into natural word and sentence boundaries for UI rendering
+command: python
+args:
+  - mcp_server.py
